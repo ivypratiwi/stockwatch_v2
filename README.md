@@ -1,3 +1,5 @@
+# StockWatch
+
 StockWatch has various features such as searching by stock symbol, searching by industry, filtering by dates and chart. 
 
 This version used a dummy data to run all functions. However, the features and functions between this version and the final version are similar.
